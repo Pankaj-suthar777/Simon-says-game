@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+.btn {
+    height:200px;
+    width:200px;
+    display:inline-block;
+}
+.line {
+    display:block;
+}
+.btn {
+    border:10px solid black;
+    border-radius:20%;
+    margin:20px;
+}
+.one {
+    background-color: #d95980;
+}
+.two {
+    background-color: #63aac0;
+}
+.three {
+    background-color:#f99b45;
+}
+.four {
+    background-color: #819ff9;
+}
+.flashh {
+    background-color: white;
+}
+.green {
+    background-color: green;
+}
+h4 {
+    position: absolute;
+    top:15px;
+    right:110px;
+}
